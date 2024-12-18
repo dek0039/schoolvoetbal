@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wedstrijdbeheer - SchoolVoetbal</title>
+    <!-- Corrected the link to point to the Css folder -->
+    <link href="Css/Style.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <h1>Wedstrijdbeheer Platform</h1>
+        <p>Bekijk de laatste wedstrijden en teams!</p>
+    </header>
+    <main>
+        <section class="data-container">
+            <h2>Wedstrijden</h2>
+            <table id="matchTable">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Team 1</th>
+                        <th>Team 2</th>
+                        <th>Score</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Wedstrijdata wordt hier ingevoegd via JavaScript -->
+                </tbody>
+            </table>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 SchoolVoetbalAPI | Wedstrijdbeheer</p>
+    </footer>
+    <script>
+        // JavaScript om API-data op te halen en in de tabel te tonen
+        document.addEventListener("DOMContentLoaded", () => {
+            fetch('https://localhost:5001/api/Match') // Vervang door jouw endpoint
+                .then(response => response.json())
+                .then(data => {
+                    const tableBody = document.querySelector("#matchTable tbody");
+                    data.forEach(match => {
+                        const row = `
+                                        <tr>
+                                            <td>${match.id}</td>
+                                            <td>${match.team1}</td>
+                                            <td>${match.team2}</td>
+                                            <td>${match.score}</td>
+                                        </tr>
+                                    `;
+                        tableBody.innerHTML += row;
+                    });
+                })
+                .catch(error => console.error("Fout bij ophalen data:", error));
+        });
+    </script>
+</body>
+</html>
