@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\laragon\\www\\schoolvoetbal2\\c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8592E9-8839-4A2E-80F7-878DA6C50907}|SchoolVoetbalAPI\\SchoolVoetbalAPI.csproj|c:\\laragon\\www\\schoolvoetbal2\\c#\\schoolvoetbalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8592E9-8839-4A2E-80F7-878DA6C50907}|SchoolVoetbalAPI\\SchoolVoetbalAPI.csproj|solutionrelative:schoolvoetbalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8592E9-8839-4A2E-80F7-878DA6C50907}|SchoolVoetbalAPI\\SchoolVoetbalAPI.csproj|c:\\laragon\\www\\schoolvoetbal2\\c#\\schoolvoetbalapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB8592E9-8839-4A2E-80F7-878DA6C50907}|SchoolVoetbalAPI\\SchoolVoetbalAPI.csproj|solutionrelative:schoolvoetbalapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8592E9-8839-4A2E-80F7-878DA6C50907}|SchoolVoetbalAPI\\SchoolVoetbalAPI.csproj|c:\\laragon\\www\\schoolvoetbal2\\c#\\schoolvoetbalapi\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8592E9-8839-4A2E-80F7-878DA6C50907}|SchoolVoetbalAPI\\SchoolVoetbalAPI.csproj|solutionrelative:schoolvoetbalapi\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8592E9-8839-4A2E-80F7-878DA6C50907}|SchoolVoetbalAPI\\SchoolVoetbalAPI.csproj|c:\\laragon\\www\\schoolvoetbal2\\c#\\schoolvoetbalapi\\controllers\\matchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8592E9-8839-4A2E-80F7-878DA6C50907}|SchoolVoetbalAPI\\SchoolVoetbalAPI.csproj|solutionrelative:schoolvoetbalapi\\controllers\\matchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8592E9-8839-4A2E-80F7-878DA6C50907}|SchoolVoetbalAPI\\SchoolVoetbalAPI.csproj|c:\\laragon\\www\\schoolvoetbal2\\c#\\schoolvoetbalapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8592E9-8839-4A2E-80F7-878DA6C50907}|SchoolVoetbalAPI\\SchoolVoetbalAPI.csproj|solutionrelative:schoolvoetbalapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8592E9-8839-4A2E-80F7-878DA6C50907}|SchoolVoetbalAPI\\SchoolVoetbalAPI.csproj|c:\\laragon\\www\\schoolvoetbal2\\c#\\schoolvoetbalapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8592E9-8839-4A2E-80F7-878DA6C50907}|SchoolVoetbalAPI\\SchoolVoetbalAPI.csproj|solutionrelative:schoolvoetbalapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8592E9-8839-4A2E-80F7-878DA6C50907}|SchoolVoetbalAPI\\SchoolVoetbalAPI.csproj|c:\\laragon\\www\\schoolvoetbal2\\c#\\schoolvoetbalapi\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8592E9-8839-4A2E-80F7-878DA6C50907}|SchoolVoetbalAPI\\SchoolVoetbalAPI.csproj|solutionrelative:schoolvoetbalapi\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8592E9-8839-4A2E-80F7-878DA6C50907}|SchoolVoetbalAPI\\SchoolVoetbalAPI.csproj|c:\\laragon\\www\\schoolvoetbal2\\c#\\schoolvoetbalapi\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8592E9-8839-4A2E-80F7-878DA6C50907}|SchoolVoetbalAPI\\SchoolVoetbalAPI.csproj|solutionrelative:schoolvoetbalapi\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8592E9-8839-4A2E-80F7-878DA6C50907}|SchoolVoetbalAPI\\SchoolVoetbalAPI.csproj|c:\\laragon\\www\\schoolvoetbal2\\c#\\schoolvoetbalapi\\models\\tournement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8592E9-8839-4A2E-80F7-878DA6C50907}|SchoolVoetbalAPI\\SchoolVoetbalAPI.csproj|solutionrelative:schoolvoetbalapi\\models\\tournement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8592E9-8839-4A2E-80F7-878DA6C50907}|SchoolVoetbalAPI\\SchoolVoetbalAPI.csproj|c:\\laragon\\www\\schoolvoetbal2\\c#\\schoolvoetbalapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8592E9-8839-4A2E-80F7-878DA6C50907}|SchoolVoetbalAPI\\SchoolVoetbalAPI.csproj|solutionrelative:schoolvoetbalapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\laragon\\www\\schoolvoetbal2\\c#\\SchoolVoetbalAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SchoolVoetbalAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\laragon\\www\\schoolvoetbal2\\c#\\SchoolVoetbalAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SchoolVoetbalAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T09:12:20.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\schoolvoetbal2\\c#\\SchoolVoetbalAPI\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "SchoolVoetbalAPI\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\laragon\\www\\schoolvoetbal2\\c#\\SchoolVoetbalAPI\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "SchoolVoetbalAPI\\Controllers\\TeamController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAA1wH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:11:26.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatchController.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\schoolvoetbal2\\c#\\SchoolVoetbalAPI\\Controllers\\MatchController.cs",
+              "RelativeDocumentMoniker": "SchoolVoetbalAPI\\Controllers\\MatchController.cs",
+              "ToolTip": "C:\\laragon\\www\\schoolvoetbal2\\c#\\SchoolVoetbalAPI\\Controllers\\MatchController.cs",
+              "RelativeToolTip": "SchoolVoetbalAPI\\Controllers\\MatchController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:08:26.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\schoolvoetbal2\\c#\\SchoolVoetbalAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SchoolVoetbalAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\laragon\\www\\schoolvoetbal2\\c#\\SchoolVoetbalAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SchoolVoetbalAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAQwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:08:25.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\schoolvoetbal2\\c#\\SchoolVoetbalAPI\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "SchoolVoetbalAPI\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\laragon\\www\\schoolvoetbal2\\c#\\SchoolVoetbalAPI\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "SchoolVoetbalAPI\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:07:17.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\schoolvoetbal2\\c#\\SchoolVoetbalAPI\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "SchoolVoetbalAPI\\Models\\Match.cs",
+              "ToolTip": "C:\\laragon\\www\\schoolvoetbal2\\c#\\SchoolVoetbalAPI\\Models\\Match.cs",
+              "RelativeToolTip": "SchoolVoetbalAPI\\Models\\Match.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:06:46.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\schoolvoetbal2\\c#\\SchoolVoetbalAPI\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "SchoolVoetbalAPI\\Models\\Team.cs",
+              "ToolTip": "C:\\laragon\\www\\schoolvoetbal2\\c#\\SchoolVoetbalAPI\\Models\\Team.cs",
+              "RelativeToolTip": "SchoolVoetbalAPI\\Models\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:05:05.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tournement.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\schoolvoetbal2\\c#\\SchoolVoetbalAPI\\Models\\Tournement.cs",
+              "RelativeDocumentMoniker": "SchoolVoetbalAPI\\Models\\Tournement.cs",
+              "ToolTip": "C:\\laragon\\www\\schoolvoetbal2\\c#\\SchoolVoetbalAPI\\Models\\Tournement.cs",
+              "RelativeToolTip": "SchoolVoetbalAPI\\Models\\Tournement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:04:48.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\schoolvoetbal2\\c#\\SchoolVoetbalAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SchoolVoetbalAPI\\Models\\User.cs",
+              "ToolTip": "C:\\laragon\\www\\schoolvoetbal2\\c#\\SchoolVoetbalAPI\\Models\\User.cs",
+              "RelativeToolTip": "SchoolVoetbalAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:03:34.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\schoolvoetbal2\\c#\\SchoolVoetbalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolVoetbalAPI\\Program.cs",
+              "ToolTip": "C:\\laragon\\www\\schoolvoetbal2\\c#\\SchoolVoetbalAPI\\Program.cs*",
+              "RelativeToolTip": "SchoolVoetbalAPI\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:00:50.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
