@@ -24,8 +24,9 @@ namespace SchoolVoetbalAPI.Controllers
         public string DateTime { get; set; }
         public int ScoreTeam1 { get; set; }
         public int ScoreTeam2 { get; set; }
-        public int AssignedTeam1 { get; set; }
-        public int AssignedTeam2 { get; set; }
+        public Team AssignedTeam1 { get; set; }
+        public Team AssignedTeam2 { get; set; }
+        public int AssignedTournement { get; set; }
     }
 
     public class UpdateScoreRequest
@@ -84,6 +85,7 @@ namespace SchoolVoetbalAPI.Controllers
                 AssignedTeam2 = request.AssignedTeam2,
                 ScoreTeam1 = request.ScoreTeam1,
                 ScoreTeam2 = request.ScoreTeam2,
+                AssignedTournement = request.AssignedTournement,
             };
 
             _context.Match.Add(match);
@@ -116,12 +118,12 @@ namespace SchoolVoetbalAPI.Controllers
                 return NotFound(new { message = "Match not found." });
             }
 
-            if (match.AssignedTeam1 == request.TeamId)
+            if (match.AssignedTeam1.Id == request.TeamId)
             {
                 match.ScoreTeam1 = request.Score;
             }
 
-            if (match.AssignedTeam2 == request.TeamId)
+            if (match.AssignedTeam2.Id == request.TeamId)
             {
                 match.ScoreTeam2 = request.Score;
             }
