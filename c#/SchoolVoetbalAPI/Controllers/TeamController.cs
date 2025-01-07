@@ -63,6 +63,21 @@ namespace SchoolVoetbalAPI.Controllers
             return Ok(new { json });
         }
 
+        [HttpGet("getteam/{id}")]
+        public IActionResult GetTeam(int id)
+        {
+            var team = _context.Team.FirstOrDefault(t => t.Id == id);
+
+            if (team == null)
+            {
+                return NotFound(new { message = "Team not found." });
+            }
+
+            var json = JsonConvert.SerializeObject(team);
+
+            return Ok(new { json });
+        }
+
         [HttpPost("addteam")]
         [Authorize]
         public IActionResult AddTeam([FromForm] TeamCreateRequest request)

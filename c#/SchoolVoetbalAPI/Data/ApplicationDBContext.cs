@@ -12,5 +12,6 @@ namespace SchoolVoetbalAPI.Data
         public DbSet<Match> Match { get; set; }
         public DbSet<Tournement> Tournement { get; set; }
         public DbSet<Team> Team { get; set; }
+        public DbSet<Bets> Bets { get; set; }
     }
 }

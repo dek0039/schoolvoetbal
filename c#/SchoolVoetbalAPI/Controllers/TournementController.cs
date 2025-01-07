@@ -37,7 +37,7 @@ namespace SchoolVoetbalAPI.Controllers
         }
 
         [HttpPost("gettournements")]
-        public IActionResult GetTeams()
+        public IActionResult GetTournements()
         {
 
             var teams = _context.Tournement.ToList();

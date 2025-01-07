@@ -106,7 +106,7 @@ namespace SchoolVoetbalAPI.Controllers
             }
 
             var token = GenerateJwtToken(request.UsernameOrEmail);
-            return Ok(new { Token = token });
+            return Ok(new { Token = token, Name = user.Username });
         }
 
         private string GenerateJwtToken(string username)
@@ -144,7 +144,7 @@ namespace SchoolVoetbalAPI.Controllers
 
             var user = _context.Users.FirstOrDefault(u => u.Username == username);
 
-            if (user == null || !user.IsAdmin)
+            if (user == null)
             {
                 return Ok(new { message = "User is invalid." });
             }
